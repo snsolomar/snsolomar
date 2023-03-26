@@ -35,3 +35,8 @@ Most of my work has utilized the following technologies as I learn the fundament
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![WebPack](https://camo.githubusercontent.com/cfb221c05f485331b66bcf123878fc7de981faffc16fe430ff53bb1ad4f41aad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d2532333844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b)
 ![VIM](https://camo.githubusercontent.com/9b771d3052d4089b3788a69dd69dbc2f019c59fe369ae39f3abfa64057f12550/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465)
+
+These are the projects I'm most proud of:
+- Blue Ocean: [[Repo]](https://github.com/snsolomar/instructor-hub-2)
+- Amazon Items Detail Page: [[Repo]](https://github.com/snsolomar/AirBnB_UI_Clone) - [[Live]](https://fec-frontend.onrender.com/)
+- Weather App: [[Repo]](https://github.com/snsolomar/Weather-App)
