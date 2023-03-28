@@ -1,6 +1,6 @@
 **Hi there**
 
-My name is Simon, and I am a transitioning Army veteran looking to enter into tech. I've spent the last year working to learn new tools, languages, and frameworks wit the intent of becoming a Software Engineer, bridging the gap between my Software Engineering Immersive and my professional experience as an Armor Officer.
+My name is Simon, and I am a transitioning Army veteran looking to enter into tech. I've spent the last year working to learn new tools, languages, and frameworks with the intent of becoming a Software Engineer, bridging the gap between my Software Engineering Immersive and my professional experience as an Armor Officer.
 
 Most of my work has utilized the following technologies as I learn the fundamentals and idioms of software design:
 
