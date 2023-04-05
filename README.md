@@ -1,6 +1,14 @@
 **Hi there**
 
-My name is Simon, and I am a transitioning Army veteran looking to enter into tech. I've spent the last year working to learn new tools, languages, and frameworks with the intent of becoming a Software Engineer, bridging the gap between my Software Engineering Immersive and my professional experience as an Armor Officer.
+Hello,
+
+Welcome to my page! My name is Simon, and I am a recently separated veteran with a strong determination to break into the Tech industry. I'm a first-generation American born and raised in Los Angeles, CA. Growing up in this diverse and dynamic environment shaped me in many ways, instilling values of adaptability, open-mindedness, and resilience. Los Angeles' unique blend of cultures and perspectives exposed me to a wide range of ideas, fostering my curiosity and encouraging me to embrace new experiences. My passions and hobbies include competitive gaming, economics, painting, weightlifting, and programming.
+
+During my time in the Army, I served as a Tank Platoon Leader and Headquarters Company XO. While some may see my transition from the world of Armor to Tech as a significant leap, it was my experiences in the military that truly inspired me to embark on this journey. We often relied on advanced software and technology to execute our missions efficiently and ensure the safety of our troops. Witnessing the power and potential of these cutting-edge tools first-hand, I developed a deep appreciation for the role technology plays in our lives.
+
+The software we used in the Army allowed us to analyze complex data, streamline communication, and make critical decisions in high-pressure situations. As a result, I've become increasingly passionate about harnessing the power of technology to improve not only military operations, but also the lives of everyday people. This realization has fueled my desire to learn more about programming, systems integration, and software development, ultimately driving me to pursue a career in the Tech industry.
+
+As I continue my journey into Tech, I am eager to apply the leadership, problem-solving, and adaptability skills honed during my military service to new challenges and opportunities. I am confident that with dedication and persistence, I can make a meaningful impact in this exciting and rapidly evolving field.
 
 Most of my work has utilized the following technologies as I learn the fundamentals and idioms of software design:
 
