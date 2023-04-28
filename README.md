@@ -46,3 +46,4 @@ These are the projects I'm most proud of:
 - Blue Ocean: [[Repo]](https://github.com/snsolomar/instructor-hub-2)
 - Amazon Items Detail Page: [[Repo]](https://github.com/snsolomar/AirBnB_UI_Clone) - [[Live]](https://fec-frontend.onrender.com/)
 - Weather App: [[Repo]](https://github.com/snsolomar/Weather-App)
+- Tic-Tac-Toe: [[Repo]](https://github.com/snsolomar/tic-tac-toe-React-Project)
