@@ -43,8 +43,10 @@ Most of my work has utilized the following technologies as I learn the fundament
 ![VIM](https://camo.githubusercontent.com/9b771d3052d4089b3788a69dd69dbc2f019c59fe369ae39f3abfa64057f12550/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56494d2d2532333131414230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76696d266c6f676f436f6c6f723d7768697465)
 
 These are the projects I'm most proud of:
-- Text to Speech Voice Synthesis: [[Repo]](https://github.com/snsolomar/Text-to-speech-accessibility)
+
 - Blue Ocean: [[Repo]](https://github.com/snsolomar/instructor-hub-2)
+- Discord Bot: [[Repo]](https://github.com/snsolomar/Discord-Bot)
 - Amazon Items Detail Page: [[Repo]](https://github.com/snsolomar/AirBnB_UI_Clone) - [[Live]](https://fec-frontend.onrender.com/)
+- Text to Speech Voice Synthesis: [[Repo]](https://github.com/snsolomar/Text-to-speech-accessibility)
 - Weather App: [[Repo]](https://github.com/snsolomar/Weather-App)
 - Tic-Tac-Toe: [[Repo]](https://github.com/snsolomar/tic-tac-toe-React-Project)
