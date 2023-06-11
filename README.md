@@ -46,7 +46,7 @@ These are the projects I'm most proud of:
 
 - Blue Ocean: [[Repo]](https://github.com/snsolomar/instructor-hub-2)
 - Discord Bot: [[Repo]](https://github.com/snsolomar/Discord-Bot)
-- Amazon Items Detail Page: [[Repo]](https://github.com/snsolomar/AirBnB_UI_Clone) - [[Live]](https://fec-frontend.onrender.com/)
+- Hotel Reservation Page: [[Repo]](https://github.com/snsolomar/AirBnB_UI_Clone) - [[Live]](https://fec-frontend.onrender.com/)
 - Text to Speech Voice Synthesis: [[Repo]](https://github.com/snsolomar/Text-to-speech-accessibility)
 - Weather App: [[Repo]](https://github.com/snsolomar/Weather-App)
 - Tic-Tac-Toe: [[Repo]](https://github.com/snsolomar/tic-tac-toe-React-Project)
