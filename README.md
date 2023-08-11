@@ -1,8 +1,11 @@
 **Hi there**
 
 Front End | JavaScript (ES5 and ES6), TypeScript, React, HTML5, CSS3, Sass
+
 Back End | Node.JS, PostgreSQL, MongoDB 
+
 Testing/Deployment | Jest, Selenium, K6, AWS, Vercel, Firebase, Render
+
 Developer Tools | Git, NPM, VSCode, Agile Methodology, Scrum, Kubernetes, Docker
 
 About me:
