@@ -8,10 +8,6 @@ Testing/Deployment | Jest, Selenium, K6, AWS, Vercel, Firebase, Render
 
 Developer Tools | Git, NPM, VSCode, Agile Methodology, Scrum, Kubernetes, Docker
 
-About me:
-
-I’m a software engineer and I enjoy solving complex problems. I have 1 year of experience as a full-stack web applications developer and I enjoy working on all layers of the stack. 
-
 My primary tools for development are PostgreSQL, Express, Node.js, and React. I’m passionate about creating user friendly, and efficient websites and applications.
 
 I specialize in responsive design, api development, and server side coding. 
