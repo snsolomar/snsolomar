@@ -48,6 +48,7 @@ Most of my work has utilized the following technologies as I learn the fundament
 
 These are the projects I'm most proud of:
 
+- Stock Tracker: [[Repo]](https://github.com/snsolomar/Stock-Dashboard)
 - Blue Ocean: [[Repo]](https://github.com/snsolomar/instructor-hub-2)
 - Discord Bot: [[Repo]](https://github.com/snsolomar/Discord-Bot)
 - Hotel Reservation Page: [[Repo]](https://github.com/snsolomar/AirBnB_UI_Clone) - [[Live]](https://fec-frontend.onrender.com/)
