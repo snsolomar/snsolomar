@@ -1,15 +1,5 @@
 **Hi there**
 
-# Skills
-
-Front End | JavaScript (ES5 and ES6), TypeScript, React, Angular, HTML5, CSS3, Sass
-
-Back End | Node.JS, Express, Python, PostgreSQL, MongoDB 
-
-Testing/Deployment | Jest, Selenium, K6, AWS, Vercel, Firebase, Render
-
-Developer Tools | Git, NPM,  Agile Methodology, Scrum, Kubernetes, Docker
-
 # About Me
 
 Technical: I have 1 year of experience in full-stack web development, primarily using JavaScript, TypeScript, and Python. I'm especially adept at backend development with Node.js. 
