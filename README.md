@@ -8,7 +8,13 @@ Testing/Deployment | Jest, Selenium, K6, AWS, Vercel, Firebase, Render
 
 Developer Tools | Git, NPM, VSCode, Agile Methodology, Scrum, Kubernetes, Docker
 
-My primary tools for development are PostgreSQL, Express, Node.js, and React. I’m passionate about creating user friendly, and efficient websites and applications.
+# About Me
+
+Technical: I have 1 year of experience in full-stack web development, primarily using JavaScript, TypeScript, and Python. I'm especially adept at backend development with Node.js. 
+
+Education: B.A. in Economics from the University of California, Riverside.
+
+Military: Before diving into software development, I served 4 years as an Armor Officer. This role honed my ability to lead teams in high-pressure, resource-limited settings. The discipline, adaptability, and leadership skills I developed in the military are assets I bring to every project and team.
 
 I specialize in responsive design, api development, and server side coding. 
 
