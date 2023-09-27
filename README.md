@@ -1,4 +1,4 @@
-#About Me
+# About Me
 
 Technical: I have 1 year of experience in full-stack web development, primarily using JavaScript, TypeScript, and Python. I'm especially adept at backend development with Node.js. 
 
